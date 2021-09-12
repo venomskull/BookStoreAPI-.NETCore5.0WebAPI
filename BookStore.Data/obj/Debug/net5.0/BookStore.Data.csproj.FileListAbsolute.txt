@@ -1,0 +1,12 @@
+C:\DATA\WorkingOuts\.NetCore\BookStoreAPI\BookStore.Data\bin\Debug\net5.0\BookStore.Data.deps.json
+C:\DATA\WorkingOuts\.NetCore\BookStoreAPI\BookStore.Data\bin\Debug\net5.0\BookStore.Data.dll
+C:\DATA\WorkingOuts\.NetCore\BookStoreAPI\BookStore.Data\bin\Debug\net5.0\ref\BookStore.Data.dll
+C:\DATA\WorkingOuts\.NetCore\BookStoreAPI\BookStore.Data\bin\Debug\net5.0\BookStore.Data.pdb
+C:\DATA\WorkingOuts\.NetCore\BookStoreAPI\BookStore.Data\obj\Debug\net5.0\BookStore.Data.csproj.AssemblyReference.cache
+C:\DATA\WorkingOuts\.NetCore\BookStoreAPI\BookStore.Data\obj\Debug\net5.0\BookStore.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\DATA\WorkingOuts\.NetCore\BookStoreAPI\BookStore.Data\obj\Debug\net5.0\BookStore.Data.AssemblyInfoInputs.cache
+C:\DATA\WorkingOuts\.NetCore\BookStoreAPI\BookStore.Data\obj\Debug\net5.0\BookStore.Data.AssemblyInfo.cs
+C:\DATA\WorkingOuts\.NetCore\BookStoreAPI\BookStore.Data\obj\Debug\net5.0\BookStore.Data.csproj.CoreCompileInputs.cache
+C:\DATA\WorkingOuts\.NetCore\BookStoreAPI\BookStore.Data\obj\Debug\net5.0\BookStore.Data.dll
+C:\DATA\WorkingOuts\.NetCore\BookStoreAPI\BookStore.Data\obj\Debug\net5.0\ref\BookStore.Data.dll
+C:\DATA\WorkingOuts\.NetCore\BookStoreAPI\BookStore.Data\obj\Debug\net5.0\BookStore.Data.pdb
